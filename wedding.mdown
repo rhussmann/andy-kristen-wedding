@@ -15,68 +15,71 @@ Ceremony
 - Kristen comes down the aisle with her parents.
 - At the front row, Kristen pauses.
 - Community's declaration of consent.
+
 - Kristen joins Andy at the front.
-- **Welcome Message**
+- Welcome Message
+	> **TODO**
 - Wedding Vows
 
-Sample #1
----------
-*To Andy*
+	- **Sample #1**
+	
+		*To Andy*
+		
+			Do you Andrew promise to love Kristen freely - without restrictions; honestly - without deceit; now - without hesitation?
+			"I do."
+			Do you promise to accept her just as she is, sharing with her and supporting her through the experiences of your lives, be they easy or difficult, happy or sad, challenging or mundane, till death do you part?
+			"I do."
+        
+		*To Kristen*
 
+	        Do you Kristen promise to love Andrew freely - without restrictions; honestly - without deceit; now - without hesitation?
+	        "I do."
+	        Do you promise to accept him just as he is, sharing with him and supporting him through the experiences of your lives, be they easy or difficult, happy or sad, challenging or mundane, till death do you part?
+	        "I do."
 
-        Do you Andrew promise to love Kristen freely - without restrictions; honestly - without deceit; now - without hesitation?
-        "I do."
-        Do you promise to accept her just as she is, sharing with her and supporting her through the experiences of your lives, be they easy or difficult, happy or sad, challenging or mundane, till death do you part?
-        "I do."
+	- **Sample #2**
+	
+		*To Andy*
+	
+	
+	        From this day onward, do you choose Kristen to be your wife, your best friend and your only love?
+	        To live together, play together and laugh together;
+	        To work by her side and dream in her arms;
+	        To fill her heart and feed her soul;
+	        To always seek out the best in her;
+	        Always loving her with all your heart, until the end of your forever?
+	        If so, say, "I do!"
 
-*To Kristen*
+		*To Kristen*
+	
+	
+	        From this day onward, do you choose Andrew to be your husband, your best friend and your only love?
+	        To live together, play together and laugh together;
+	        To work by his side and dream in his arms;
+	        To fill his heart and feed his soul;
+	        To always seek out the best in him;
+	        Always loving him with all your heart, until the end of your forever?
+	        If so, say, "I do!"	        
 
+	- **Sample #3**
 
-        Do you Kristen promise to love Andrew freely - without restrictions; honestly - without deceit; now - without hesitation?
-        "I do."
-        Do you promise to accept him just as he is, sharing with him and supporting him through the experiences of your lives, be they easy or difficult, happy or sad, challenging or mundane, till death do you part?
-        "I do."
+		Something about capturing this moment, or previous moments, and striving to meet or exceed it.
+	
 
-Sample #2
----------
-*To Andy*
-
-
-        From this day onward, do you choose Kristen to be your wife, your best friend and your only love?
-        To live together, play together and laugh together;
-        To work by her side and dream in her arms;
-        To fill her heart and feed her soul;
-        To always seek out the best in her;
-        Always loving her with all your heart, until the end of your forever?
-        If so, say, "I do!"
-
-*To Kristen*
-
-
-        From this day onward, do you choose Andrew to be your husband, your best friend and your only love?
-        To live together, play together and laugh together;
-        To work by his side and dream in his arms;
-        To fill his heart and feed his soul;
-        To always seek out the best in him;
-        Always loving him with all your heart, until the end of your forever?
-        If so, say, "I do!"
-
-Sample #3
----------
-Something about capturing this moment, or previous moments, and striving to meet or exceed it.
 
 - Exchange of the Rings
 
+	- **Sample #1**
+	
+		*Andy*
+		
+			"I, Andrew, give you, Kristen, this ring as an eternal symbol of my love and commitment to you."
+		*Kristen*
+		
+			"I, Kristen, give you, Andrew, this ring as an eternal symbol of my love and commitment to you."
 
-TODO: Need some more samples
-
-*Andy*
-
-        "I, Andrew, give you, Kristen, this ring as an eternal symbol of my love and commitment to you."
-*Kristen*
-
-        "I, Kristen, give you, Andrew, this ring as an eternal symbol of my love and commitment to you."
-
+	- **TODO:** Add more examples
+	
 - Lantern Lighting (or something similar)
 - Declaration of Marriage
 "By the power vested in my by the State of West Virginia, I now pronounce you husband and wife. You may now get to the kissin'."
